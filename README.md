@@ -4,6 +4,8 @@
 
 Give Claude Code a sense of time.
 
+![Claude Code recognizing elapsed time between messages](screenshot.png)
+
 Claude Code has no clock. No timestamps on messages, no elapsed time between turns, no awareness of whether you stepped away for 30 seconds or 30 hours. Every message hits it with the same weight regardless of when it arrives.
 
 This hook injects a timestamp into every user message via `additionalContext`, so Claude can reason about:
