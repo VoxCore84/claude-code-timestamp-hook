@@ -69,6 +69,10 @@ It's a `UserPromptSubmit` hook — a Python script that runs every time you send
 
 This hook came from a conversation about whether an AI can perceive time. The answer was no — but we could give it the next best thing: data about time that it can reason about. Philosophy to working feature in one conversation.
 
+Read the full story: [Convos with Claude: Teaching an AI to Tell Time](https://dev.to/voxcore84/convos-with-claude-teaching-an-ai-to-tell-time-2j5d)
+
+Full unedited transcript: [full-transcript.md](full-transcript.md)
+
 ## License
 
 MIT
